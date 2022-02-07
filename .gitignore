@@ -18,6 +18,10 @@
 # misc
 .DS_Store
 *.pem
+.eslintrc.json
+Dockerfile
+.dockerignore
+sitemap.xml
 
 # debug
 npm-debug.log*
