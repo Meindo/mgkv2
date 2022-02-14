@@ -3,4 +3,8 @@ deployment:
  tasks:
  - export DEPLOYPATH=/home/minigame/public_html/
  - /bin/cp index.html $DEPLOYPATH
- - /bin/cp style.css $DEPLOYPATH
+ - /bin/cp 404.html $DEPLOYPATH
+ - /bin/cp about.html $DEPLOYPATH
+ - /bin/cp meinbot.html $DEPLOYPATH
+ - /bin/cp ultraviolet.html $DEPLOYPATH
+ - /bin/cp -R _next $DEPLOYPATH

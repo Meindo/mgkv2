@@ -19,19 +19,19 @@ export default function Home() {
         By MiniGameKing
       </p>
       <div className={styles.grid}>
-        <a href="./downloads" className={styles.card}>
+        <a href="./downloads.html" className={styles.card}>
           <h2>Downloads &rarr;</h2>
           <p>Here you can find all downloads</p>
         </a>
-        <a href="./ultraviolet" className={styles.card}>
+        <a href="./ultraviolet.html" className={styles.card}>
           <h2>UltraViolet Revamp &rarr;</h2>
           <p>The popular 1.8.9 pvp pack UltraViolet made better</p>
         </a>
-        <a href="./meinbot" className={styles.card}>
+        <a href="./meinbot.html" className={styles.card}>
           <h2>MeinBot &rarr;</h2>
           <p>An versatile minecraft pvp bot written in javascript</p>
         </a>
-        <a href="./about" className={styles.card}>
+        <a href="./about.html" className={styles.card}>
           <h2>About &rarr;</h2>
           <p>About me</p>
         </a>
