@@ -16,13 +16,13 @@ export default function about(){
           About
         </h1>
         <p className={styles.description}>
-            Hi! Im MeindoMC or MiniGameKing. This is my site that i use for all my projects.
+            Hi! Im Meindert or MeindoMC. This is my site that i use for all my projects.
         </p>
         <p className={styles.description}>
            Im also a Java/Web developer in my free time
         </p>
         <p className={styles.description}>
-            This V2 of the site is completly rewritten. The site used to be written in wordpress, but i switched to NextJS for the extreme performance.
+            This V2 of the site is completly rewritten. The site used to be written in wordpress, but i switched to html for the extreme performance.
         </p>
         <p className={styles.description}>Follow me at:</p>
         <a href="https://www.youtube.com/channel/UC48j8iYMWe08md0NFFIyVjw" className="fa fa-youtube"></a>

@@ -16,16 +16,11 @@
     border: 1px solid #ccc;
     float: left;
   }
-  .galleryCenter {
-    margin: 10px;
-    border: 1px solid #ccc;
-    float: left;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    align-self: center;
-  }
 
+  .galleryDiv {
+    display: flex;
+    justify-content: center;
+  }
 
   .back{
     background-image: url('https://v2.cdn.minigameking.net/ultraviolet_revamp/bw_back.png');
@@ -55,24 +50,6 @@
     align-items: center;
   }
   
-  .footer a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-grow: 1;
-  }
-  
-  .title a {
-    color: #0070f3;
-    text-decoration: none;
-  }
-  
-  .title a:hover,
-  .title a:focus,
-  .title a:active {
-    text-decoration: underline;
-  }
-  
   .title {
     margin: 0;
     line-height: 1.15;
@@ -83,6 +60,15 @@
   .description {
     text-align: center;
     color: white;
+  }
+
+  .new {
+    text-align: center;
+    margin: 0;
+    line-height: 1.15;
+    font-size: 1.4rem;
+    color:seagreen;
+    font: bolt;
   }
   
   .description {

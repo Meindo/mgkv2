@@ -19,9 +19,12 @@
 .DS_Store
 *.pem
 .eslintrc.json
+tsconfig.json
+*.d.ts
 Dockerfile
 .dockerignore
 sitemap.xml
+*.tsbuildinfo
 
 # debug
 npm-debug.log*
