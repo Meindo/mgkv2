@@ -18,7 +18,7 @@ export default function Home() {
           My list of downloads
         </p>
         <a className={styles.description} href='https://minigameking.net/ultraviolet'>
-          UltraViolet Revamped R1.2
+          UltraViolet Revamped
         </a>
         <a className={styles.description} href='https://minigameking.net/meinbot'>
           MeinBot
